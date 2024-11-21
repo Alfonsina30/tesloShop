@@ -4,6 +4,7 @@ import '../config/config.dart';
 
 void main() async {
 
+//call file .env
   await Environment.initEnvironment();
 
   runApp(const ProviderScope(child: MainApp()));
