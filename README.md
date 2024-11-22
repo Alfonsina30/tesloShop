@@ -8,7 +8,6 @@ App of Inventory of products that help to bussines:
 # Technologies: 
 
 - Local Backend use:
-    - Enviroment variables. 
     - Bearer token in authentication headers. 
     - Local DataBase postgres: for storage new user account and products informations
     - REST API as architecture style of API for communication between Client and Server.
