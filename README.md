@@ -1,6 +1,6 @@
 # teslo_shop
 
-Inventory app that help to bussines: 
+App of Inventory of products that help to bussines: 
 
 - View all the information of their products (price, description, images,etc) in the app. 
 - Load new products informations to Backend/Rest API Endpoints, using the camera and the gallery of the phone when user is using the app.
